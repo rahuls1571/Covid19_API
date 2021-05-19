@@ -1,0 +1,3 @@
+include ':rahulsuthar_covid19india_api'
+include ':app'
+rootProject.name = "covid19india_api"
