@@ -1,6 +1,6 @@
 # Covid19_API
 
-Here I am are using someone else API (Volley) paulsmithkc and the license is given in the project.
+Here I am  using someone else API (Volley) paulsmithkc and the license is given in the project.
 I am trying to build a Library that Is easy for the beginner to fetch the Covid-19 data and build App this is my first library for Android Studio.
 
 In this library, I made this Library to Fetch covid19india.org API data In Which it contain :
